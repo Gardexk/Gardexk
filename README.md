@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Gardexk+👋;Developer+%7C+Student+%7C+Maker;Building+cool+things+with+code" alt="Typing SVG" />
 </div>
 <br/>
 <div align="center">
@@ -15,7 +14,7 @@ Ask me about C, JavaScript, Java, HTML or Arduino
 Fun fact: I love mixing hardware and software to create real-world solutions
 
 
-🛠️ Tech Stack
+Tech Stack
 <div align="center">
 Languages
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" title="JavaScript" />
@@ -27,6 +26,7 @@ Languages
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" title="HTML5" />
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" title="CSS3" />
+  <br> </br>
 Hardware & Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45" alt="Arduino" title="Arduino" />
 &nbsp;&nbsp;
@@ -39,17 +39,9 @@ Hardware & Tools
 
 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gardexk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="160" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gardexk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="160" alt="Top Languages" />
 </div>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Gardexk&theme=dracula&hide_border=false&locale=en" height="160" alt="GitHub Streak" />
-</div>
-
-GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gardexk&theme=dracula&no-frame=false&no-bg=true&margin-w=4&row=1" alt="Trophies" />
 </div>
 
 Contribution Graph
