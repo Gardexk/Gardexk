@@ -1,66 +1,89 @@
-<div align="center">
-</div>
-<br/>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gardexk&color=bd93f9&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
+<h1 align="center">Hi! I'm Erick Ortiz</h1>
+<h3 align="center">Software Engineer · Full Stack Developer · UNACH</h3>
 
-About Me
-
-Student passionate about technology, electronics and software development
-Currently working on personal projects with Arduino and web development
-Always learning new languages and tools
-Ask me about C, JavaScript, Java, HTML or Arduino
-Fun fact: I love mixing hardware and software to create real-world solutions
+<p align="center">
+  🎓 Software Engineering student at <strong>Universidad Autónoma de Chiapas (UNACH)</strong> <br>
+  💻 Passionate about building practical, well-structured software from the ground up. <br>
+  📍 México
+</p>
 
 
-Tech Stack
-<div align="center">
-Languages
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" title="JavaScript" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="C" title="C" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" title="Java" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" title="HTML5" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" title="CSS3" />
-  <br> </br>
-Hardware & Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45" alt="Arduino" title="Arduino" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" title="Git" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" title="GitHub" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code" title="VS Code" />
-</div>
 
-GitHub Stats
-<div align="center">
-</div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Gardexk&theme=dracula&hide_border=false&locale=en" height="160" alt="GitHub Streak" />
-</div>
+---
 
-Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gardexk&theme=dracula&hide_border=false" alt="Contribution Graph" />
-</div>
+## 🔗 About Me
 
-Connect With Me
-<div align="center">
-  <a href="https://github.com/Gardexk" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+I'm a software engineer in training with a hands-on approach to learning — I build things to understand them. My work spans **web development**, **backend systems**, and **game development**, and I'm always looking to push my skills further.
+
+I enjoy solving real problems with clean, readable code, working across the full stack, and applying good practices like input validation, SQL injection prevention, and responsive design from the start, not as an afterthought.
+
+My current focus is on **JavaScript/TypeScript**, **PHP**, **Python**, and deepening my understanding of **databases and system architecture**.
+
+---
+
+## Featured Projects
+
+| Project | Description | Tech Stack | Link |
+|---|---|---|---|
+| **Breakout Game** | Arcade-style Breakout game with multi-level progression, scoring system, lives, pause screen, and dynamic ball physics. | Python, Pygame | [GitHub](https://github.com/Gardexk/Breakout-Game) |
+| **Bootstrap PHP MySQL** | Full CRUD web app for product management with SQL injection prevention, HTML output escaping, and Bootstrap 5 UI. | PHP, MySQL, Bootstrap 5 | [GitHub](https://github.com/Gardexk/Bootstrap-PHP-MySQL) |
+| **Generator RFC** | RFC generator for Mexican physical persons based on name + DOB, with AJAX integration and responsive interface. | HTML, CSS, JavaScript, jQuery | [GitHub](https://github.com/Gardexk/Generator-RFC) |
+| **Operaciones Aritméticas** | Web-based arithmetic operations tool for educational practice. | HTML, CSS, JavaScript | [GitHub](https://github.com/Gardexk/Operaciones-Aritmeticas) |
+| **Conexión a MySQL** | Demonstration project for connecting a web frontend to a MySQL database via PHP. | HTML, PHP, MySQL | [GitHub](https://github.com/Gardexk/Conecion-to-MySQL) |
+
+---
+
+## 🛠️ Technical Skills
+
+These are the technologies I've actively used across my projects and coursework:
+
+- **Languages:** JavaScript, Python, PHP, C, Java, HTML
+- **Frontend:** HTML5, CSS3, Bootstrap 5, jQuery
+- **Backend:** PHP, Node.js (learning)
+- **Databases:** MySQL / MariaDB
+- **Game Dev:** Python (Pygame)
+- **Hardware / Embedded:** Arduino, C
+- **Tools & Platforms:** Git, GitHub, XAMPP, VS Code
+- **Practices:** CRUD architecture, SQL injection prevention, responsive design, input validation, REST API consumption (AJAX/Fetch)
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gardexk&theme=dracula&hide_border=true" alt="activity graph"/>
+</p>
+
+---
+
+## Achievements
+
+<p align="left">
+  <a href="https://github.com/Gardexk?tab=achievements">
+    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="80" alt="Pull Shark"/>
   </a>
-  &nbsp;
-  <!-- Replace with your actual links -->
-  <!-- <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a> -->
-</div>
+</p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=BD93F9&height=80&section=footer" alt="footer wave" />
-</div>
+- 🦈 **Pull Shark** — Earned for consistently opening and merging pull requests, reflecting a structured collaborative workflow.
+
+---
+
+## Languages
+
+- **Spanish:** Native
+- **English:** Intermediate — actively improving through self-study and technical content.
+
+---
+
+## Contact Me
+
+If you'd like to connect, collaborate, or just talk tech:
+
+- GitHub: [@Gardexk](https://github.com/Gardexk)
+- Institution: [UNACH – Universidad Autónoma de Chiapas](https://www.unach.mx)
+
+---
+
+## Quick Note
+
+I'm at an exciting point in my engineering journey — building real things, making real
